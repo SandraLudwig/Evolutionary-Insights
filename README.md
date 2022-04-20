@@ -1,6 +1,4 @@
-# Evolutionary Insights
-
-Puzzling the demography of the loggerhead turtles: evolutionary insights for the Southwest Atlantic
+# Puzzling the demography of the loggerhead turtles: evolutionary insights for the Southwest Atlantic
 
 Sandra Ludwig1* & Sarah M Vargas1
 
